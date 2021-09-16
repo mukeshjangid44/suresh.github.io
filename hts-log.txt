@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Sep 2021 18:27:17 at https://web.moxrathore.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.moxrathore.com/ -O1 "C:\My Web Sites\suresh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:27:40	Error: 	"Not Found" (404) at link https://web.moxrathore.com/en (from https://web.moxrathore.com/)
+18:27:40	Error: 	"Not Found" (404) at link https://web.moxrathore.com/"https://assets.website-files.com/605739cf94ca6b3bfeae0833/610d4c9a73819a89e42edfa9_Portfolio-video-moritz-petersen-poster-00001.jpg" (from https://web.moxrathore.com/)
+18:27:41	Error: 	"Not Found" (404) at link https://web.moxrathore.com/contact.html (from https://web.moxrathore.com/)
+18:27:41	Error: 	"Not Found" (404) at link https://web.moxrathore.com/privacy.html (from https://web.moxrathore.com/)
+18:27:41	Error: 	"Not Found" (404) at link https://web.moxrathore.com/en/privacy (from https://web.moxrathore.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 72 links scanned, 66 files written (7861200 bytes overall) [7030474 bytes received at 292936 bytes/sec], 1195414 bytes transferred using HTTP compression in 18 files, ratio 26%, 5.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
